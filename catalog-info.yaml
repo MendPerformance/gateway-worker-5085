@@ -9,6 +9,3 @@ spec:
   type: service
   lifecycle: unknown
   owner: mend.io
-  relations:
-    - type: ownedBy
-      target: group:portal/admins
